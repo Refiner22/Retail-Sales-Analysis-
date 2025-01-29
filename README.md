@@ -65,6 +65,7 @@ Breaks down customer demographics (gender-based spending patterns, product prefe
 Example insights: Male customers contributed $223,160, while female customers contributed $232,840.
 
 ### 5. Dashboard
+![Screenshot 2025-01-29 024745](https://github.com/user-attachments/assets/630dacb1-2055-4eda-8605-ca6cde4b6f8d)
 
 Aggregates data visualization for easy understanding.
 
